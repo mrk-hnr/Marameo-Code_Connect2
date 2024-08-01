@@ -6,9 +6,7 @@ Code_Connect is a developer mentorship program aimed at supporting developers ge
 
 ## Working On:
 
-[Media & News page](https://marameo-codeconnect.netlify.app/blocks/news-resource-page)
-
-[Event page](https://marameo-codeconnect.netlify.app/blocks/events-page)
+- 2nd Site
 
 ## Goals:
 
