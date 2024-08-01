@@ -16,6 +16,9 @@
     background: rgba(72, 43, 231, 1);
     color: rgba(255, 255, 255, 1);
     padding: 17px 35px;
+    height: fit-content;
+    border: none;
+    cursor: pointer;
 }
 
 .showcase.button-border {

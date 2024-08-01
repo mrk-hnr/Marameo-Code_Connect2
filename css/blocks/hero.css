@@ -1,15 +1,21 @@
 .hero {
     background:linear-gradient(0deg, rgba(47, 24, 147, 0.3), rgba(47, 24, 147, 0.3)), url(../../assets/images/hero.jpg);   
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
+    padding-bottom: 163px;
+    background-size: 100% 100%;
 }
 
 .hero-description {
     max-width: 735px;
     margin: 0 auto;
-    margin-top: 142px;
+    margin-top: 140px;
 }
 
 .hero-description h1 {
     padding: 27px 0;
+}
+
+.hero button {
+    margin-top: 85px;
 }
