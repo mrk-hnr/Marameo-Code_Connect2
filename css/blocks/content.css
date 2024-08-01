@@ -1,0 +1,18 @@
+.content {
+    background:linear-gradient(0deg, rgba(47, 24, 147, 0.3), rgba(47, 24, 147, 0.3)), url(../../assets/images/content.jpg);   
+
+    background-repeat: no-repeat;
+    padding-bottom: 163px;
+    background-size: 100%;
+    background-position: 40% 50%;
+}
+
+.content-description {
+    padding: 107px 0 125px 0;
+    max-width: 815px;
+    margin: 0 auto;
+}
+
+.content-description h2 {
+    margin: 28px 0;
+}
