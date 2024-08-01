@@ -1,0 +1,33 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "DM Sans";
+  color: rgba(255, 255, 255, 1);
+}
+
+a {
+  text-decoration: none;
+  color: #0F1828;
+  font-family: "DM Sans";
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+.reset-me {
+  padding: 0;
+  margin: 0;
+}
+
+.center-me {
+  text-align: center;
+}

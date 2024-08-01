@@ -1,0 +1,68 @@
+.weight-500 {
+    font-weight: 500;
+}
+
+.weight-700 {
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 72px;
+    line-height: 86px;
+    letter-spacing: -1px;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-size: 58px;
+    line-height: 70px;
+    letter-spacing: -1px;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    font-size: 42px;
+    line-height: 52px;
+    letter-spacing: -0.1px;;
+    margin: 0;
+    padding: 0;
+}
+
+h5 {
+    font-size: 22px;
+    line-height: 32px;
+    margin: 0;
+    padding: 0;
+}
+
+.properties-24-31 {
+    font-size: 24px;
+    line-height: 31.25px;
+    letter-spacing: -.029px;
+}
+
+.properties-14-26 {
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2px;
+}
+
+.properties-16-26 {
+    font-size: 16px;
+    line-height: 26px
+}
+
+.properties-18-26 {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.properties-18-28 {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+
+

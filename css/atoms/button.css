@@ -1,0 +1,26 @@
+/* Navigation Properties */
+/* body {
+    background: rgb(77, 77, 77);
+} */
+.nav-button {
+    border: none;
+    background: none;
+}
+
+.button-border {
+    border: 1px solid;
+    border-radius: 50px;
+}
+
+.hero.button-border {
+    background: rgba(72, 43, 231, 1);
+    color: rgba(255, 255, 255, 1);
+    padding: 17px 35px;
+}
+
+.showcase.button-border {
+    border: 2px solid rgba(255, 255, 255, 1);
+    color: rgba(255, 255, 255, 1);
+    background: rgba(72, 43, 231, 1);
+    padding: 13px 24px;
+}
