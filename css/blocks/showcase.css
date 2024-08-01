@@ -1,0 +1,10 @@
+.showcase { 
+    background: rgba(47, 24, 147, 1);
+}
+
+.showcase-intro {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 215px 52px 215px;
+}
+
