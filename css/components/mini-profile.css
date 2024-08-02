@@ -1,0 +1,31 @@
+.profile-description {
+
+    flex-wrap: wrap;
+}   
+.profile-description img {
+    border-radius: 50%;
+    width: 100px;  
+}
+
+.profile-description h5 {
+    padding-top: 15px;
+}
+
+.profile-description p {
+    margin-top: 8.2px;
+    margin-bottom: 20px;
+}
+
+.socials {
+    width: fit-content;
+}
+
+.socials i {
+    font-size: 17px;
+    margin-right: 20px;
+}
+
+.socials i:last-child {
+    
+    margin: 0;
+}

@@ -1,0 +1,11 @@
+.card-container {
+    max-width: 470px; 
+}
+
+.card-container img {
+    width: 100%;
+    aspect-ratio: 1.7 / 1;
+    overflow: hidden;
+    max-height: 280px;
+    object-fit: cover;
+}

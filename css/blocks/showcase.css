@@ -2,9 +2,34 @@
     background: rgba(47, 24, 147, 1);
 }
 
+.showcase-description {
+    margin: 0 auto;
+    max-width: 970px;
+}
+
 .showcase-intro {
     display: flex;
     justify-content: space-between;
-    padding: 100px 215px 52px 215px;
+    
+    padding-top: 100px;
+    padding-bottom: 52px;
+    
+    flex-wrap: wrap;
+
+    width: 100%;
+    /* CENTERING and MARGIN AUTO DOESNT WORK */
 }
 
+.showcase-preview p {
+    text-transform: uppercase;
+    margin-top: 33px;
+    margin-bottom: 3px;
+}
+
+.double-card {
+    display: flex;
+    justify-content: space-between;
+    /* flex-wrap: wrap; */
+    padding-bottom: 75px;
+    gap: 15px;
+}

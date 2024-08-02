@@ -1,0 +1,24 @@
+.team {
+    background: rgba(47, 24, 147, 1);
+}
+
+.team-container {
+    padding: 100px 115px;
+    margin: 0 auto;
+}
+
+.team-intro {
+    max-width: 800px;
+}
+
+.team-intro h5 {
+    margin-top: 31px;
+    margin-bottom: 70px;
+}
+
+.team-profile {
+    max-width: 764px;
+    display: flex;
+    gap: 60px 145px;
+    flex-wrap: wrap;
+}
