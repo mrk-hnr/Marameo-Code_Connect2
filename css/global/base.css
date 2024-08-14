@@ -31,3 +31,11 @@ ul {
 .center-me {
   text-align: center;
 }
+
+.center-me-margin {
+  margin: 0 auto;
+}
+
+.component-container {
+  max-width: 1400px;
+}
