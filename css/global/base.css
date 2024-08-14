@@ -38,5 +38,6 @@ ul {
 
 .component-container {
   max-width: 1400px;
+  min-width: 400px;
   padding: 0 20px;
 }
