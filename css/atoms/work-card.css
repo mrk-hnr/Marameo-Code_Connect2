@@ -8,4 +8,5 @@
     overflow: hidden;
     max-height: 280px;
     object-fit: cover;
+    border-radius: 8px;
 }

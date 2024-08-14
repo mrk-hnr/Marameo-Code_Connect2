@@ -1,9 +1,9 @@
 .content {
     background:linear-gradient(0deg, rgba(47, 24, 147, 0.3), rgba(47, 24, 147, 0.3)), url(../../assets/images/content.jpg);   
-
     background-repeat: no-repeat;
     padding-bottom: 163px;
     background-size: 100%;
+
     background-position: 40% 50%;
 }
 
@@ -15,4 +15,10 @@
 
 .content-description h2 {
     margin: 28px 0;
+}
+
+@media (max-width: 600px) {
+    .content {
+        background-size: cover;
+    }
 }

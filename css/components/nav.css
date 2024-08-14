@@ -13,3 +13,15 @@
     opacity: 30%;
 }
 
+
+
+@media (max-width: 550px) {
+    .nav-container > button {
+        visibility: hidden;
+        opacity: 0;
+    }
+
+    .burger {
+        display: block;
+    }
+}
