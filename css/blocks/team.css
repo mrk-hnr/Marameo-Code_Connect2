@@ -19,6 +19,6 @@
 .team-profile {
     max-width: 764px;
     display: flex;
-    gap: 60px 145px;
+    gap: 70px 150px;
     flex-wrap: wrap;
 }
