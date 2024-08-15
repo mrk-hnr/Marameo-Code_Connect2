@@ -17,7 +17,8 @@
 }
 
 .team-profile {
-    max-width: 764px;
+    /* max-width: 764px; */
+    max-width: 1000px;
     display: flex;
     gap: 70px 150px;
     flex-wrap: wrap;
@@ -33,12 +34,26 @@
     }
 }
 
+
+
+@media (max-width: 800px) {
+    .team-profile {
+        max-width: 725px;
+        justify-content: center;
+    }
+}
+
 @media (max-width: 550px) {
+    .team-profile {
+        max-width: 480px;
+    }
     .profile-description {
         width: 100%;
         display: flex;
-        margin: 0 auto;
+        margin: 0 auto !important;
         text-align: center;
+
+
     }
 }
 
